@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Embedded system interfacing
 - 🌱 I’m currently learning ROS, Fusion360
-- 👯 I’m looking to collaborate on Robotics Projects'
+- 👯 I’m looking to collaborate on Robotics Projects
 - 😄 Pronouns: she/her
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
