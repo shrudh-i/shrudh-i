@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 <!-- [![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i)](https://github.com/shrudh-i/github-readme-stats) -->
 
-<img align="left" alt="Shrudhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrudh-i">
+<img align="left" alt="Shrudhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&theme=midnight-purple">
