@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <br />
 <hr>
 
-![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=6a3f53&text_color=ffff
+![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff
 )
