@@ -1,5 +1,14 @@
 ### Hi there, I'm Shrudhi 👋
 
+- 🔭 I’m currently working on Embedded system interfacing
+- 🌱 I’m currently learning ROS, Fusion360
+- 👯 I’m looking to collaborate on Robotics Projects
+<!-- - 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ... -->
+- 😄 Pronouns: she/her
+<!-- - ⚡ Fun fact: ... -->
+
 <!--
 **shrudh-i/shrudh-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
