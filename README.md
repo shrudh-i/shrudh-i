@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <br />
 <hr>
 
-![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudhi-i&show_icons=true&theme=github_dark&text_color=#c290c5
+![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&theme=github_dark&text_color=#c290c5
 )
