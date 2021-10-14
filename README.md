@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff
 )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrudh-i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrudh-i&layout=compact&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff)](https://github.com/anuraghazra/github-readme-stats)
