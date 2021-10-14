@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 <br />
 <hr>
 
-<!-- [![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i)](https://github.com/shrudh-i/github-readme-stats) -->
-
-<img align="left" alt="Shrudhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&hide_border=true&theme=github_dark&text_color=#c290c5">
+![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudhi-i&show_icons=true&theme=github_dark&text_color=#c290c5
+)
