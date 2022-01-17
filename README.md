@@ -33,16 +33,3 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <hr>
-
-<!-- ![Shrudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff
-)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrudh-i&layout=compact&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/shrudh-i/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrudh-i&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff&disable_animations=true&custom_title=Shrudhi's GitHub Stats" />
-  <!-- hide=stars,issues -->
-</a>
-<a href="https://github.com/shrudh-i/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrudh-i&layout=default&show_icons=true&hide_border=true&title_color=c290c5&bg_color=0d1117&icon_color=d2b4c4&text_color=ffff" />
-</a>
