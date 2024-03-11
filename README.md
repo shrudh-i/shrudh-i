@@ -1,10 +1,10 @@
 ### Hi there, I'm Shrudhi 👋
 
-- 🔭 I’m currently working on Embedded system interfacing
-- 🌱 I’m currently learning ROS, Fusion360
-- 👯 I’m looking to collaborate on Robotics Projects
+- 🔭 I’m currently working on Motion planning and Navigation
+- 🌱 I’m currently learning ROS2
 - 😄 Pronouns: she/her
 <!-- - 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Robotics Projects
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
