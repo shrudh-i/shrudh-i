@@ -1,6 +1,6 @@
 ### Hi there, I'm Shrudhi 👋
 
-- 🔭 I’m currently working on Motion planning and Navigation
+- 🔭 I’m working on Motion planning and Navigation
 - 🌱 I’m currently learning ROS2
 - 😄 Pronouns: she/her
 <!-- - 🤔 I’m looking for help with ...
