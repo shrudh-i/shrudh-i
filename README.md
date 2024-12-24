@@ -1,36 +1,47 @@
-### Hi there, I'm Shrudhi 👋
+# Hi, I'm Shrudhi! 👋👩‍💻 
 
-- 🔭 I’m working on Motion planning and Navigation
-- 🌱 I’m currently learning ROS2
-- 😄 Pronouns: she/her
-<!-- - 🤔 I’m looking for help with ...
-- 👯 I’m looking to collaborate on Robotics Projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ... -->
+🎓 MS in Robotic Systems Development ([MRSD'25](https://mrsd.ri.cmu.edu/)) at Carnegie Mellon University  
+⚡  Btech in Electronics and Computer Engineering ([VITC'23](https://chennai.vit.ac.in/))  
+🤖 Robot Software Intern (Summer'24) at [Onward Robotics](https://onwardrobotics.com/)  
 
-<!--
-**shrudh-i/shrudh-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Looking for full-time opportunities as a **Robot Software Engineer** for **Summer'25**  
 
-Here are some ideas to get you started:
+## 🔭 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Languages and Tools:
+I'm a passionate robotics developer focused on building intelligent, human-centered systems that enhance daily life. 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="ROS" width="26px" src="https://user-images.githubusercontent.com/89002422/149776878-307c9f70-8d06-4301-b06b-f9d4d9daaccb.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<hr>
+I specialize in motion planning, state estimation, and sensor fusion, combining theory with hands-on experience to deliver deployable solutions.
+
+### 🛠️ Skills
+
+- **Programming:** C/C++, Python, Embedded C, MATLAB, Julia  
+- **Libraries & Frameworks:** PyTorch, ROS, MoveIt, Mujoco, OpenCV, Numpy, Docker, Git  
+- **Robotics Expertise:** Motion Planning, State Estimation, SLAM, PID & MPC Control, Sensor Fusion  
+
+
+## 🚀 Projects I've worked on!
+
+- **🌽 NiMo: Autonomous Nitrate Monitoring Robot**  
+  - Motion Planning Lead for a robot analyzing nitrate levels in cornfields with 91% gripping accuracy.  
+  - Built an RRT-Connect-based motion planning stack for the xArm6 manipulator.
+
+- **🦾 Catching and Sorting Robot**  
+  - Developed a failure-tolerant pipeline for object sorting using a Franka Emika Panda robot.  
+
+- **Decentralized Control for Autonomous Surface Vehicles**  
+  - Utilized MADDPG to enhance multi-agent task efficiency for marine trash clearing.  
+
+---
+
+## 🌱 Currently Working On
+
+- **Reinforcement Learning for Robotics:** Learning to integrate reinforcement learning techniques with a robot arm using **MuJoCo**.
+- **ROS2 and IsaacSim:** Exploring advanced robotics simulation and middleware tools.   
+
+## 📈 Stats!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrudh-i&layout=compact&theme=radical)](https://github.com/shrudh-i)
+
+
+## 💡 Let's Connect!
+I'm always eager to collaborate on projects or exchange ideas about robotics, automation, or AI. Feel free to reach out!  
+[LinkedIn](https://www.linkedin.com/in/shrudhi/) | [Email](mailto:srameshs@andrew.cmu.edu)
