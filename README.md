@@ -43,5 +43,4 @@ I specialize in motion planning, state estimation, and sensor fusion, combining 
 
 
 ## 💡 Let's Connect!
-I'm always eager to collaborate on projects or exchange ideas about robotics, automation, or AI. Feel free to reach out!  
-[LinkedIn](https://www.linkedin.com/in/shrudhi/) | [Email](mailto:srameshs@andrew.cmu.edu)
+I'm always eager to collaborate on projects or exchange ideas about robotics, automation, or AI. Feel free to reach out!
