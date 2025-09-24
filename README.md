@@ -4,7 +4,7 @@
 ⚡  Btech in Electronics and Computer Engineering ([VITC'23](https://chennai.vit.ac.in/))  
 🤖 Robot Software Intern (Summer'24) at [Onward Robotics](https://onwardrobotics.com/)  
 
-🚀 Looking for full-time opportunities as a **Robot Software Engineer** for **Summer'25**  
+🦾 **Robotics Engineer** at [Medra](https://www.medra.ai)  
 
 ## 🔭 About Me
 
